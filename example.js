@@ -41,7 +41,7 @@ const options = {
   excludeUsers: [],
 
   // If true, will not do any actions (defaults to true)
-  dryRun: false,
+  dryRun: true,
 };
 
 (async () => {
